@@ -1,0 +1,13 @@
+{
+  "name": "re-search",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Luke Browne <git@lukeb.me>",
+  "license": "MIT",
+  "dependencies": {
+    "@elastic/elasticsearch": "^8.11.0",
+    "@langchain/community": "^0.0.17",
+    "@supabase/supabase-js": "^2.39.3",
+    "langchain": "^0.1.2"
+  }
+}
